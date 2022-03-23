@@ -1,10 +1,10 @@
 # vue-music-next
 
-vue-music-next 介绍
-a music webapp
+## vue-music-next 介绍
+### a music webapp
 
-软件架构
-Vue3+vue-router+vuex+less+swiper7
+## 软件架构
+###Vue3+vue-router+vuex+less+swiper7
 
 
 
