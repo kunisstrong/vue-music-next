@@ -1,5 +1,3 @@
-# vue-music-next
-
 ## vue-music-next 介绍
 ### a music webapp
 
